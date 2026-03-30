@@ -12,3 +12,4 @@ C:\Users\kacper\Desktop\DesignPatternsInCssharp\DesignPatternsInCssharp\obj\Debu
 C:\Users\kacper\Desktop\DesignPatternsInCssharp\DesignPatternsInCssharp\obj\Debug\net10.0\DesignPatternsInCssharp.pdb
 C:\Users\kacper\Desktop\DesignPatternsInCssharp\DesignPatternsInCssharp\obj\Debug\net10.0\DesignPatternsInCssharp.genruntimeconfig.cache
 C:\Users\kacper\Desktop\DesignPatternsInCssharp\DesignPatternsInCssharp\obj\Debug\net10.0\ref\DesignPatternsInCssharp.dll
+C:\Users\kacper\Desktop\DesignPatternsInCssharp\DesignPatternsInCssharp\obj\Debug\net10.0\DesignPatternsInCssharp.sourcelink.json

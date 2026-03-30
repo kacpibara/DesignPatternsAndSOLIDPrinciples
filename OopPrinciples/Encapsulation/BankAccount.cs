@@ -27,10 +27,10 @@ public class BankAccount
     }
 
     // GetBalance - Java Style
-    // public decimal GetBalance()
-    // {
-    //     return this._balance;
-    // }
+    public decimal GetBalance()
+    {
+        return this._balance;
+    }
 
     public void Deposit(decimal amount)
     {
