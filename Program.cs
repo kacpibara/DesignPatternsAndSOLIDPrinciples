@@ -2,7 +2,7 @@ using DesignPatternsInCssharp.OopPrinciples.Encapsulation;
 using DesignPatternsInCssharp.OopPrinciples.Abstraction;
 using DesignPatternsInCssharp.OopPrinciples.Inheritance;
 using DesignPatternsInCssharp.OopPrinciples.Polymorphism;
-
+using DesignPatternsInCssharp.OopPrinciples.Coupling;
 public class Program
 {
     public static void Main(string[] args)
@@ -14,7 +14,9 @@ public class Program
 
         // InheritanceDemo.Run();
 
-        PolymorphismDemo.Run();
+        // PolymorphismDemo.Run();
+
+        CouplingDemo.Run();
     
     }
 }
