@@ -1,5 +1,6 @@
 using DesignPatternsInCssharp.OopPrinciples.Encapsulation;
 using DesignPatternsInCssharp.OopPrinciples.Abstraction;
+using DesignPatternsInCssharp.OopPrinciples.Inheritance;
 
 public class Program
 {
@@ -8,6 +9,8 @@ public class Program
 
         //EncapsulationDemo.Run();
         
-        AbstractionDemo.Run();
+        //AbstractionDemo.Run();
+
+        InheritanceDemo.Run();
     }
 }

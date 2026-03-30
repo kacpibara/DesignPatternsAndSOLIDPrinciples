@@ -1,3 +1,5 @@
+# Enkapsulacja (hermetyzacja)
+
 Enkapsulacja (hermetyzacja) to mechanizm ukrywania stanu wewnętrznego obiektu i wymuszania, aby każda interakcja z tym stanem odbywała się wyłącznie przez ściśle zdefiniowany publiczny interfejs (metody/właściwości).
 
 W przykładzie Bank Account nie chodzi tylko o to, że pole _balance jest prywatne. Chodzi o to, że obiekt BankAccount pilnuje swoich zasad (niezmienników):
@@ -5,7 +7,7 @@ W przykładzie Bank Account nie chodzi tylko o to, że pole _balance jest prywat
 - Nie można wpłacić ujemnej kwoty.
 - Nikt z zewnątrz nie "zhakuje" konta, wpisując tam dowolną liczbę.
 
-<br>
+### Porównanie podejść
 
 | Cecha | BadBankAccount (Brak enkapsulacji) | BankAccount (Poprawna enkapsulacja) |
 | :--- | :--- | :--- |
